@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+venv/
+
+# Ignorar archivos de salida y procesados
+data/processed/chat.csv
+
+data/raw/_chat.txt
+
+# Archivos de Python compilados
+src/__pycache__/
